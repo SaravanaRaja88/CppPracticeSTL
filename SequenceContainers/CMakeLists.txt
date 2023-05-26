@@ -1,0 +1,5 @@
+add_test_project(TARGET testVector INPUT_FILE_NAME TestVector.cpp)
+add_test_project(TARGET testArray INPUT_FILE_NAME TestArray.cpp)
+add_test_project(TARGET testDeque INPUT_FILE_NAME TestDeque.cpp)
+add_test_project(TARGET testForwardList INPUT_FILE_NAME TestForwardList.cpp)
+add_test_project(TARGET testList INPUT_FILE_NAME TestList.cpp)
