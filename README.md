@@ -1,7 +1,7 @@
 ## Intro
 The purpose of this repo is to practise all the STL containers and algorithms
 using the google test.
-This was we explore the STL as well as the google test framework
+This way we explore the STL as well as the google test framework
 
 ## Build google test
 
@@ -23,7 +23,7 @@ Open your CMakeLists.txt, specify `GTest_DIR` to the directory that contains `GT
 For me, it is `/home/username/work/googletest/build/install/lib/cmake/GTest`.
 
 
-## find_package, and link
+## find_package and link
 ```cmake
 find_package(GTest REQUIRED)
 
