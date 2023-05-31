@@ -11,3 +11,4 @@ set(GTest_DIR "/lhome/rajasar/TestProject/googletest/build/install/lib/cmake/GTe
 find_package(GTest REQUIRED)
 
 add_subdirectory(SequenceContainers)
+add_subdirectory(AssociativeContainers)
