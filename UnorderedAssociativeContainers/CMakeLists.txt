@@ -1,1 +1,2 @@
 add_test_project(TARGET testUnorderedSet INPUT_FILE_NAME TestUnorderedSet.cpp)
+add_test_project(TARGET testUnorderedMap INPUT_FILE_NAME TestUnorderedMap.cpp)
