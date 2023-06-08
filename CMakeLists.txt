@@ -12,3 +12,4 @@ find_package(GTest REQUIRED)
 
 add_subdirectory(SequenceContainers)
 add_subdirectory(AssociativeContainers)
+add_subdirectory(UnorderedAssociativeContainers)
