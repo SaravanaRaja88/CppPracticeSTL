@@ -1,0 +1,1 @@
+add_test_project(TARGET testString INPUT_FILE_NAME TestString.cpp)
