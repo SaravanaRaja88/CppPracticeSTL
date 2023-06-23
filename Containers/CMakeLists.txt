@@ -1,0 +1,3 @@
+add_subdirectory(AssociativeContainers)
+add_subdirectory(SequenceContainers)
+add_subdirectory(UnorderedAssociativeContainers)
