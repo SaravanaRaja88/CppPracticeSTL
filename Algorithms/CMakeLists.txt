@@ -1,3 +1,4 @@
 add_test_project(TARGET testNonModOperations INPUT_FILE_NAME TestNonModSequenceOperations.cpp)
 target_link_libraries(testNonModOperations -ltbb)
 add_test_project(TARGET testModSeqOperations INPUT_FILE_NAME TestModSequenceOperations.cpp)
+add_test_project(TARGET testMinMaxOperations INPUT_FILE_NAME TestMinMaxOperations.cpp)
