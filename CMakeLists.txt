@@ -13,3 +13,6 @@ find_package(GTest REQUIRED)
 add_subdirectory(Containers)
 add_subdirectory(Strings)
 add_subdirectory(Algorithms)
+
+#Just a small test application to test something quickly with std::out printout's
+add_executable(mainOut main.cpp)
